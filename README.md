@@ -1,5 +1,5 @@
 # Solu-es-em-Impress-o-
-[https://impressoesol-4yzjpzev.manus.space/cartuchos]
+[https://impressoesol-4yzjpzev.manus.space]
 
 # Gerenciador de Estoque de Cartuchos
 Projeto desenvolvido como parte do planejamento arquitetural para o Centro Universitário Afya.
